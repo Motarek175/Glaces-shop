@@ -1,2 +1,3 @@
-# project1
-my first project using html5, css3, js
+Glaces shop
+
+Demo : https://motarek175.github.io/Glaces-shop/
